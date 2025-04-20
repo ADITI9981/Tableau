@@ -6,7 +6,7 @@ growth, and creativity using Tableau, one of the most powerful data visualizatio
 This repo is powered by an incredible 21-hour YouTube course by Data With BarA — a total game-changer if
 you’re diving into data for the first time or sharpening your skills! 💡
 
-🎥 Watch the full course here: 📘 Complete Tableau Tutorial for Beginners (21 Hours)
+🎥 Watch the full course here: 📘 [Complete Tableau Tutorial for Beginners ](https://www.youtube.com/watch?v=K3pXnbniUcM&list=PLaiHzIpb6jMkoS0UyR25VKEjRB-EnKVEK&index=11)(21 Hours)
 
 ## 📚 What You'll Find Inside 🧐
 Here’s what’s packed into this repo like a data-filled treasure chest 🧳:
